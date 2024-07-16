@@ -1,6 +1,8 @@
 {
+    "actionOnStepFail": null, 
     "concurrency": 1, 
     "enabled": true, 
+    "externalUuid4": "9f032870-310f-4655-a3f9-a717c3ea1829", 
     "isBlueprint": true, 
     "key": "install7zonwindows", 
     "links": [

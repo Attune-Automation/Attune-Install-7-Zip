@@ -1,7 +1,9 @@
 {
+    "actionOnStepFail": null, 
     "archiveKey": "7zforwindows", 
     "deployPath": "/c$/software/", 
     "enabled": true, 
+    "externalUuid4": "4f6ff3d2-59b3-44fa-b88f-014c40044dff", 
     "key": "pushinstallerfor7zonwindows", 
     "name": "Push Installer for 7z on Windows", 
     "osCredKey": "windowsuseradministrator", 
